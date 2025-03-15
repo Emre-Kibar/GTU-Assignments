@@ -1,0 +1,22 @@
+Result: 44f4000
+Result: 5f0
+Result: val1 = 9f0
+Result: val1 = 12f2
+Result: 15f0
+Result: val1 = 12f2
+Result: 12f02
+Result: 15f0
+Result: NIL
+Result: T
+Result: NIL
+Result: T
+Result: T
+Result: y = 16f72
+Result: val1 = 12f2
+Result: y = 16f72
+Result: T
+Result: 5f0
+Result: if condition is incorrect
+Result: Function 'abc' is defined
+Result: while condition is incorrect. Not entered loop.
+Exiting program...

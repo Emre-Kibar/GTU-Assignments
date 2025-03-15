@@ -1,0 +1,16 @@
+pID,Type,Name,Brand,Price
+1,D,Ayran,Sutas,20.50
+2,F,Peynir,Dost,8.01
+3,C,Deterjan,Domestos,32.40
+4,D,Cola,Pepsi,15.50
+5,F,Salam,Sahin,42.00
+6,O,Telefon,Samsung,4800.00
+7,C,Sabun,Dalin,52.42
+8,F,Cips,Doritos,24.30
+9,O,Islemci,AMD,3500.00
+10,D,Kahve,Nescafe,5.50
+11,F,Kraker,Eti,8.50
+12,D,Sut,Dost,16.50
+13,F,Kek,Ulker,16.50
+14,D,Gazoz,Uludag,12.40
+15,F,Puding,DrOetker,15.80

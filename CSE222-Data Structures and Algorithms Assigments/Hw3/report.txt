@@ -1,0 +1,165 @@
+Electronics Shop Inventory Report
+Generated on: 23/03/2024
+--------------------------------------
+| 1   | Laptop     | Lenovo Ideapad       | $550,00     | 500      |
+--------------------------------------
+Summary:
+-Total Number of Devices: 1
+-Total Inventory Value: $550,00
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 24/03/2024
+--------------------------------------
+| 1   | Smartphone | iPhone 14            | $550,00     | 500      |
+| 2   | Smartphone | Samsung S22          | $450,00     | 300      |
+| 3   | Smartphone | Huawei A6            | $200,00     | 200      |
+| 4   | Smartphone | Nokia 3310           | $50,00      | 600      |
+| 5   | Laptop     | Lenovo Ideapad       | $800,00     | 400      |
+| 6   | Laptop     | macBook Pro          | $750,00     | 600      |
+| 7   | Laptop     | Casper Diamond       | $500,00     | 100      |
+| 8   | Laptop     | Monster Taurus       | $400,00     | 300      |
+| 9   | TV         | Vestel               | $600,00     | 350      |
+| 10  | TV         | Ar�elik              | $500,00     | 250      |
+| 11  | TV         | Beko                 | $300,00     | 350      |
+| 12  | TV         | Philips              | $850,00     | 250      |
+| 13  | Headphone  | Sennheiser           | $400,00     | 200      |
+| 14  | Headphone  | Logitech             | $440,00     | 600      |
+| 15  | Headphone  | JBL                  | $300,00     | 450      |
+| 16  | Headphone  | Airpods              | $300,00     | 450      |
+| 17  | Keyboard   | Logitech Balance     | $150,00     | 400      |
+| 18  | Keyboard   | Razer                | $250,00     | 50       |
+| 19  | Keyboard   | Asus                 | $500,00     | 340      |
+| 20  | Keyboard   | Everest              | $80,00      | 150      |
+--------------------------------------
+Summary:
+-Total Number of Devices: 20
+-Total Inventory Value: $8370,00
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 24/03/2024
+--------------------------------------
+| 1   | Smartphone | Nokia 3310           | $50,00      | 600      |
+| 2   | Smartphone | Huawei A6            | $200,00     | 200      |
+| 3   | Smartphone | Samsung S22          | $450,00     | 300      |
+| 4   | Smartphone | iPhone 14            | $550,00     | 500      |
+| 5   | Laptop     | Monster Taurus       | $400,00     | 300      |
+| 6   | Laptop     | Casper Diamond       | $500,00     | 100      |
+| 7   | Laptop     | macBook Pro          | $700,00     | 550      |
+| 8   | Laptop     | Lenovo Ideapad       | $800,00     | 400      |
+| 9   | TV         | Beko                 | $300,00     | 350      |
+| 10  | TV         | Ar�elik              | $500,00     | 250      |
+| 11  | TV         | Vestel               | $600,00     | 350      |
+| 12  | TV         | Philips              | $850,00     | 250      |
+| 13  | Headphone  | JBL                  | $300,00     | 450      |
+| 14  | Headphone  | Airpods              | $300,00     | 450      |
+| 15  | Headphone  | Sennheiser           | $400,00     | 200      |
+| 16  | Headphone  | Logitech             | $440,00     | 600      |
+| 17  | Keyboard   | Everest              | $80,00      | 150      |
+| 18  | Keyboard   | Logitech Balance     | $150,00     | 400      |
+| 19  | Keyboard   | Razer                | $200,00     | 50       |
+| 20  | Keyboard   | Asus                 | $500,00     | 400      |
+--------------------------------------
+Summary:
+-Total Number of Devices: 20
+-Total Inventory Value: $8270,00
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 24/03/2024
+--------------------------------------
+| 1   | Smartphone | Nokia 3310           | $50,00      | 600      |
+| 2   | Smartphone | Samsung S22          | $450,00     | 300      |
+| 3   | Smartphone | iPhone 14            | $550,00     | 500      |
+| 4   | Laptop     | Monster Taurus       | $400,00     | 300      |
+| 5   | Laptop     | Casper Diamond       | $500,00     | 100      |
+| 6   | Laptop     | macBook Pro          | $700,00     | 550      |
+| 7   | Laptop     | Lenovo Ideapad       | $800,00     | 400      |
+| 8   | TV         | Beko                 | $300,00     | 350      |
+| 9   | TV         | Ar�elik              | $500,00     | 250      |
+| 10  | TV         | Philips              | $850,00     | 250      |
+| 11  | Headphone  | JBL                  | $300,00     | 450      |
+| 12  | Headphone  | Airpods              | $300,00     | 450      |
+| 13  | Headphone  | Sennheiser           | $400,00     | 200      |
+| 14  | Headphone  | Logitech             | $440,00     | 600      |
+| 15  | Keyboard   | Everest              | $80,00      | 150      |
+| 16  | Keyboard   | Logitech Balance     | $150,00     | 400      |
+| 17  | Keyboard   | Asus                 | $500,00     | 400      |
+--------------------------------------
+Summary:
+-Total Number of Devices: 17
+-Total Inventory Value: $7270,00
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 24/03/2024
+--------------------------------------
+| 1   | Smartphone | iPhone 14            | $250,00     | 200      |
+| 2   | Smartphone | Samsung A10          | $200,00     | 1000     |
+| 3   | Laptop     | Monster              | $100,00     | 900      |
+| 4   | Laptop     | Lenovo Thinkpad      | $300,00     | 110      |
+| 5   | TV         | Vestel               | $500,00     | 400      |
+| 6   | TV         | Nokia 3310           | $20,00      | 50       |
+| 7   | Headphone  | Logitech             | $200,00     | 450      |
+| 8   | Keyboard   | Everest              | $100,00     | 80       |
+| 9   | Keyboard   | Logitech Extreme     | $300,00     | 200      |
+--------------------------------------
+Summary:
+-Total Number of Devices: 9
+-Total Inventory Value: $1970,00
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 24/03/2024
+--------------------------------------
+| 1   | Smartphone | Samsung A10          | $200,00     | 1000     |
+| 2   | Smartphone | iPhone 14            | $250,00     | 200      |
+| 3   | Laptop     | Monster              | $100,00     | 800      |
+| 4   | Laptop     | Lenovo Thinkpad      | $300,00     | 110      |
+| 5   | TV         | Nokia 3310           | $20,00      | 100      |
+| 6   | TV         | Vestel               | $500,00     | 400      |
+| 7   | Keyboard   | Logitech Extreme     | $300,00     | 200      |
+--------------------------------------
+Summary:
+-Total Number of Devices: 7
+-Total Inventory Value: $1670,00
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 24/03/2024
+--------------------------------------
+| 1   | TV         | Vestel               | $350,00     | 100      |
+--------------------------------------
+Summary:
+-Total Number of Devices: 1
+-Total Inventory Value: $350,00
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 25/03/2024
+----------------------------------------
+| 1   | Laptop     | Lenovo               | $500,00     | 200      |
+| 2   | TV         | Vestel               | $200,00     | 400      |
+----------------------------------------
+
+Summary:
+Total Number of Devices: 2
+Total Inventory Value: $700,000
+
+End of Report
+
+Electronics Shop Inventory Report
+Generated on: 25/03/2024
+----------------------------------------
+| 1   | Smartphone | Samsung              | $400.00     | 250      |
+| 2   | TV         | Arcelik              | $500.00     | 250      |
+| 3   | Headphone  | Sennheiser           | $800.00     | 300      |
+| 4   | Keyboard   | Everest              | $100.00     | 400      |
+----------------------------------------
+
+Summary:
+Total Number of Devices: 4
+Total Inventory Value: $1800.000
+
+End of Report

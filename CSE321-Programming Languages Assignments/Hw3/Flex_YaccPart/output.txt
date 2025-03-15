@@ -1,0 +1,24 @@
+Result: 30f20000
+Result: 30f20000
+Result: 0f00000
+Result: 12f00000
+Result: 2f00000
+Result: 20f32000
+Result: 20f32000
+Result: 15f00000
+Result: 15f00000
+Result: False
+Result: (1f00000 2f00000 3f00000 4f00000 )
+Result: (1f00000 2f00000 3f00000 )
+Result: (3f00000 5f00000 6f00000 4f00000 )
+Result: (1f10000 2f10000 3f20000 4f20000 )
+Result: 15f00000
+Result: 1f00000
+Result: 1f00000
+Result: 5f00000
+Result: 5f00000
+Result: 3f00000
+Result: TRUE
+Result: 0f10000
+Result: abc
+Exiting...

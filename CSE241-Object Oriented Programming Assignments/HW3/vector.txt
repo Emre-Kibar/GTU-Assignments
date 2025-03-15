@@ -1,0 +1,10 @@
+elements=[1.2, 2.2, 3.2, 4.2, 1.2, 2.2], size=6, capacity=10}
+elements=[2.2, 3.2, 3.2, 5.2], size=4, capacity=6}
+elements=[hello, world, hello], size=3, capacity=10}
+elements=[world, hello], size=2, capacity=3}
+elements=[1.2, 2.2, 4.2, 1.2, 2.2], size=5, capacity=6}
+elements=[world, hello], size=2, capacity=3}elements=[1.2, 2.2, 4.2, 5.3, 62.5], size=5, capacity=6}
+elements=[hello, hello], size=2, capacity=3}elements=[3.2], size=1, capacity=3}
+elements=[hello, hello], size=2, capacity=3}elements=[1.2, 2.2, 4.2, 5.2, 1.2], size=5, capacity=6}
+elements=[world, world], size=2, capacity=3}elements=[1.2, 2.321, 23.23423, 213.123, 1.2], size=5, capacity=6}
+elements=[brave, new, world], size=3, capacity=4}

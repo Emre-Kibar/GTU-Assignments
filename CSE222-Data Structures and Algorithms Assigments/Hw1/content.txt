@@ -1,0 +1,11 @@
+order;tv;2;2000;0;1500
+order;computer;4;8000;1;1500
+order;computer;2;5000;2;1501
+order;smartphone;0;5000;2;1501
+order;smartphone;2;3000;3;1502
+retail_customer;yakup;genc;kocaeli;+902626052201;1500;500
+corporate_customer;ibrahim;sogukpinar;kocaeli;+902626052202;1501;500;gebze technical university
+retail_customer;yusuf sinan;akgul;kocaeli;+902626052203;1502;501
+operator;gokhan;kaya;istanbul;+902626050004;500;2000
+operator;burcu;yilmaz;kocaeli;+902626050005;501;1900
+operator;didem;gozupek kocaman;istanbul;+902626050006;502;2100

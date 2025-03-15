@@ -1,0 +1,2 @@
+pID,minimum_stock,maximum_stock,median_stock
+7,342,342,342
